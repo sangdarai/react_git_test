@@ -91,7 +91,7 @@ export default function AddGoods(){
                     <select onChange={GoodsSelectHandler}>
                         <option value={"창작"}>창작</option>
                         <option value={"희소성"}>희소성</option>
-                        <option value={"특이한물건"}>특이한물건</option>
+                        <option value={"특이한물건"}>특이한물건2</option>
                         <option value={"명품"}>명품</option>
                     </select>
                     <input placeholder=" 제 목" onChange={GoodsTitleHandler}></input>
